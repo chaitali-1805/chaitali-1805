@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/12fbZoRBgJuTLa3Vqv93Lel0dVLSGmYMq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+
 -->
 ### Hi there 👋
 
@@ -19,9 +21,8 @@ Here are some ideas to get you started:
 ### 💻 &nbsp;About Me 
 
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-- 🎓 &nbsp;I'm currently pursuing my B. Tech. Degree from MGM's Jawaharlal Nehru Engineering College.
+- 🎓 &nbsp;I'm currently pursuing my Masters Degree from Chemnitz University of Technology in Web Engineering.
 - ✉️ &nbsp;You can shoot me an email at chaitalitamboliya@gmail.com! I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/12fbZoRBgJuTLa3Vqv93Lel0dVLSGmYMq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 

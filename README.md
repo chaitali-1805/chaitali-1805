@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/chaitali-1805">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaitali-1805&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaitali-1805&theme=radical&layout=compact" />
 </a>
